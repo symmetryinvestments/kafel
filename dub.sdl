@@ -1,0 +1,6 @@
+name "kafel"
+description "D bindings for Google Kafel seccomp library"
+authors "Laeeth Isharc"
+copyright "Copyright © 2019, Laeeth Isharc"
+license "MIT"
+targetType "library"
